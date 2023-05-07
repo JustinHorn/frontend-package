@@ -1,5 +1,6 @@
 {
   "name": "frontend-package",
+  "author": "Justin Horn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
